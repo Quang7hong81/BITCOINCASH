@@ -1,2 +1,0 @@
-# BITCOINCASH
-BitcoinVN ATM
